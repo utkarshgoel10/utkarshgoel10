@@ -34,7 +34,7 @@
 <img align="left" src="./img/stack-overflow.svg" width="48" height="48" alt="stack" />
 </a>
 <a href="https://www.hackerrank.com/Utkarsh_goel_10">
-<img align="left" src="./img/hackerrank (1).svg" width="48" height="48" alt="cp" />
+<img  src="./img/hackerrank (1).svg" width="48" height="48" alt="cp" />
 </a>
 <br>
 <br>
