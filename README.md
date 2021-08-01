@@ -15,7 +15,7 @@
 
 > Go check out my handles and follow em'
 
-<table>
+<table style="border: 0">
    <tr>
       <td align="center" width="96">
          <a href="https://utkarshgoel10.netlify.app/">
@@ -49,7 +49,7 @@
       </td>
       <td align="center" width="96">
          <a href="https://www.hackerrank.com/Utkarsh_goel_10">
-         <img src="./img/hackerrank.svg" width="48" height="48" alt="cp" />
+         <img src="./img/hackerrank (1).svg" width="48" height="48" alt="cp" />
          </a>
       </td>
    </tr>
