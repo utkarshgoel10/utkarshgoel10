@@ -1,6 +1,5 @@
-### Hi there 👋, I'm Utkarsh
+### Hi there 🙋‍♂️, I'm Utkarsh
 #### Full Stack Developer | Android Enthusiast
-<iframe src="https://giphy.com/embed/CWG1H72D2Ubug" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <img src="https://komarev.com/ghpvc/?username=utkarshgoel10" alt="page views" />
 
 <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="banner" />
