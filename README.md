@@ -4,7 +4,7 @@
 
 <img src="./img/Copy of Untitled.png" alt="banner" /><br>
 
-- 🔭 I’m currently working on Open Source Projects 
+- 🔭 <b>I’m currently working on<b> Open Source Projects 
 - 🌱 I’m currently learning React Js, Flutter 
 - 🤔 I’m looking for help with Linux 
 - ⚡ Fun fact: Algorithm is a word used by Programmers when...they do not want to explain what they did.  
