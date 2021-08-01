@@ -15,7 +15,7 @@
 
 > Go check out my handles and follow em'
 
-<table style="border:none">
+<table border:none>
    <tr style="border:none" >
       <td style="border:none" align="center" width="96">
          <a href="https://utkarshgoel10.netlify.app/">
