@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Utkarsh
 #### Full Stack Developer | Android Enthusiast 
 ![Full Stack Developer | Android Enthusiast ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+<img src="https://komarev.com/ghpvc/?username=utkarshgoel10" alt="page views" />
 
 - 🔭 I’m currently working on Open Source Projects 
 - 🌱 I’m currently learning React Js, Flutter 
