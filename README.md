@@ -25,7 +25,7 @@
    <tr>
       <td align="center" width="96">
          <a href="#macropower-tech">
-         <img src="https://jsonnet.org/img/html.svg" width="48" height="48" alt="Html" />
+         <img src="./img/html.svg" width="48" height="48" alt="Html" />
          </a>
          <br>HTML
       </td>
