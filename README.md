@@ -33,6 +33,9 @@
 <a href="https://stackoverflow.com/users/15812489">
 <img align="left" src="./img/stack-overflow.svg" width="48" height="48" alt="stack" />
 </a>
+<a href="mailto:goelutkarsh7u@gmail.com">
+<img align="left" src="./img/gmail.svg" width="48" height="48" alt="mail" />
+</a>
 <a href="https://www.hackerrank.com/Utkarsh_goel_10">
 <img  src="./img/hackerrank (1).svg" width="48" height="48" alt="cp" />
 </a>
