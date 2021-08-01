@@ -2,7 +2,7 @@
 #### Full Stack Developer | Android Enthusiast
 <img src="https://komarev.com/ghpvc/?username=utkarshgoel10" alt="page views" />
 
-<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="banner" />
+<img src="./img/Copy of Untitled.png" alt="banner" />
 
 - 🔭 I’m currently working on Open Source Projects 
 - 🌱 I’m currently learning React Js, Flutter 
