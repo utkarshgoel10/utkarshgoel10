@@ -73,17 +73,17 @@
          </a>
          <br>Python
       </td>
-      <td align="center" width="96"> 
-         <a href="#macropower-tech" >
-         <img src="./img/mysql.svg" width="48" height="48" alt="Mysql" />
-         </a>
-         <br>MySQL
-      </td>
       <td align="center" width="96">
          <a href="#macropower-tech" >
          <img src="./img/php.svg" width="48" height="48" alt="php" />
          </a>
          <br>PHP
+      </td>
+      <td align="center" width="96"> 
+         <a href="#macropower-tech" >
+         <img src="./img/mysql.svg" width="48" height="48" alt="Mysql" />
+         </a>
+         <br>MySQL
       </td>
    </tr>
 </table>
