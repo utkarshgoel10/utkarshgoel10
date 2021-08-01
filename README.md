@@ -14,7 +14,7 @@
 <h2 align="left" id="macropower-tech">Connect with me</h2>
 
 > Go check out my handles and follow em'
-
+<br>
 <a href="https://utkarshgoel10.netlify.app/">
 <img align="left" src="./img/web.svg" width="48" height="48" alt="site" />
 </a>
@@ -36,6 +36,7 @@
 <a href="https://www.hackerrank.com/Utkarsh_goel_10">
 <img align="left" src="./img/hackerrank (1).svg" width="48" height="48" alt="cp" />
 </a>
+<br>
 <br>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
