@@ -31,12 +31,6 @@
       </td>
       <td align="center" width="96">
          <a href="#macropower-tech">
-         <img src="./img/css.svg" width="48" height="48" alt="Css" />
-         </a>
-         <br>CSS
-      </td>
-      <td align="center" width="96">
-         <a href="#macropower-tech">
          <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
          </a>
          <br>JavaScript
@@ -53,6 +47,12 @@
          </a>
          <br>Sass
       </td>
+      <td align="center" width="96">
+         <a href="#macropower-tech">
+         <img src="./img/css.svg" width="48" height="48" alt="Css" />
+         </a>
+         <br>CSS
+      </td>
    </tr>
    <tr>
       <td align="center" width="96">
@@ -60,12 +60,6 @@
          <img src="./img/c.svg" width="48" height="48" alt="C" />
          </a>
          <br>C
-      </td>
-      <td align="center" width="96">
-         <a href="#macropower-tech">
-         <img src="./img/cpp.svg" width="48" height="48" alt="C++" />
-         </a>
-         <br>C++
       </td>
       <td align="center" width="96">
          <a href="#macropower-tech">
@@ -84,6 +78,12 @@
          <img src="./img/php.svg" width="48" height="48" alt="php" />
          </a>
          <br>PHP
+      </td>
+      <td align="center" width="96">
+         <a href="#macropower-tech">
+         <img src="./img/cpp.svg" width="48" height="48" alt="C++" />
+         </a>
+         <br>C++
       </td>
    </tr>
 </table>
