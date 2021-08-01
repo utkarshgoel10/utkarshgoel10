@@ -22,70 +22,68 @@
 > Tools, languages, and other things that I like to work with.
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/c.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/cpp.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/html.svg" width="48" height="48" alt="Html" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/css.svg" width="48" height="48" alt="Css" />
-      </a>
-      <br>CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/mysql.svg" width="48" height="48" alt="Mysql" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/php.svg" width="48" height="48" alt="php" />
-      </a>
-      <br>PHP
-    </td>
-  </tr>
+   <tr>
+      <td align="center" width="96">
+         <a href="#macropower-tech">
+         <img src="https://jsonnet.org/img/html.svg" width="48" height="48" alt="Html" />
+         </a>
+         <br>HTML
+      </td>
+      <td align="center" width="96">
+         <a href="#macropower-tech">
+         <img src="./img/css.svg" width="48" height="48" alt="Css" />
+         </a>
+         <br>CSS
+      </td>
+      <td align="center" width="96">
+         <a href="#macropower-tech">
+         <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
+         </a>
+         <br>JavaScript
+      </td>
+      <td align="center" width="96">
+         <a href="#macropower-tech">
+         <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+         </a>
+         <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+         <a href="#macropower-tech">
+         <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
+         </a>
+         <br>Sass
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="96">
+         <a href="#macropower-tech">
+         <img src="./img/c.svg" width="48" height="48" alt="C" />
+         </a>
+         <br>C
+      </td>
+      <td align="center" width="96">
+         <a href="#macropower-tech">
+         <img src="./img/cpp.svg" width="48" height="48" alt="C++" />
+         </a>
+         <br>C++
+      </td>
+      <td align="center" width="96">
+         <a href="#macropower-tech">
+         <img src="./img/python.svg" width="48" height="48" alt="Python" />
+         </a>
+         <br>Python
+      </td>
+      <td align="center" width="96"> 
+         <a href="#macropower-tech" >
+         <img src="./img/mysql.svg" width="48" height="48" alt="Mysql" />
+         </a>
+         <br>MySQL
+      </td>
+      <td align="center" width="96">
+         <a href="#macropower-tech" >
+         <img src="./img/php.svg" width="48" height="48" alt="php" />
+         </a>
+         <br>PHP
+      </td>
+   </tr>
 </table>
