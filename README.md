@@ -55,6 +55,43 @@
    </tr>
 </table>
 
+<ul>
+      <li style="border:none" align="center" width="96">
+         <a href="https://utkarshgoel10.netlify.app/">
+         <img src="./img/web.svg" width="48" height="48" alt="site" />
+         </a>
+      </li>
+      <li style="border:none" align="center" width="96">
+         <a href="https://www.linkedin.com/in/goelutkarsh/">
+         <img src="./img/linkedin.svg" width="48" height="48" alt="linkedin" />
+         </a>
+      </li>
+      <li style="border:none" align="center" width="96">
+         <a href="https://github.com/utkarshgoel10">
+         <img src="./img/github.svg" width="48" height="48" alt="github" />
+         </a>
+      </li>
+      <li style="border:none" align="center" width="96">
+         <a href="https://www.instagram.com/utkarsh_goel.10/">
+         <img src="./img/instagram.svg" width="48" height="48" alt="instagram" />
+         </a>
+      </li>
+      <li style="border:none" align="center" width="96">
+         <a href="https://dev.to/utkarshgoel10">
+         <img src="./img/dev.svg" width="48" height="48" alt="dev" />
+         </a>
+      </li>
+      <li style="border:none" align="center" width="96">
+         <a href="https://stackoverflow.com/users/15812489">
+         <img src="./img/stack-overflow.svg" width="48" height="48" alt="stack" />
+         </a>
+      </li>
+      <li style="border:none" align="center" width="96">
+         <a href="https://www.hackerrank.com/Utkarsh_goel_10">
+         <img src="./img/hackerrank (1).svg" width="48" height="48" alt="cp" />
+         </a>
+      </li>
+</ul>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
