@@ -1,4 +1,4 @@
-### Hi there 🙋‍♂️, I'm Utkarsh
+### Hi there🙋‍♂️, I'm Utkarsh
 #### Full Stack Developer | Android Enthusiast
 <img src="https://komarev.com/ghpvc/?username=utkarshgoel10" alt="page views" />
 
