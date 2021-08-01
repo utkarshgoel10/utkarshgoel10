@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Utkarsh
-<iframe src="https://giphy.com/embed/CWG1H72D2Ubug" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/text-att-CWG1H72D2Ubug"></a></p>
+<iframe src="https://giphy.com/embed/CWG1H72D2Ubug" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 #### Full Stack Developer | Android Enthusiast
 <img src="https://komarev.com/ghpvc/?username=utkarshgoel10" alt="page views" />
 
