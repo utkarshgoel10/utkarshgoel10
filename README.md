@@ -19,7 +19,7 @@
    <tr>
       <td align="center" width="96">
          <a href="https://utkarshgoel10.netlify.app/">
-         <img src="./img/web (1).svg" width="48" height="48" alt="site" />
+         <img src="./img/web.svg" width="48" height="48" alt="site" />
          </a>
       </td>
       <td align="center" width="96">
