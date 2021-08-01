@@ -16,7 +16,7 @@
 > Go check out my handles and follow em'
 
 <table style="border:none">
-   <tr>
+   <tr style="border:none" >
       <td style="border:none" align="center" width="96">
          <a href="https://utkarshgoel10.netlify.app/">
          <img src="./img/web.svg" width="48" height="48" alt="site" />
