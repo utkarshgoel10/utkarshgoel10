@@ -5,7 +5,7 @@
 <img src="./img/Copy of Untitled.png" alt="banner" /><br>
 
 - 🔭 <b>I’m currently working on<b> Freelance Projects 
-- 🌱 I’m currently learning Solidity, Azure 
+- 🌱 I’m currently learning Solidity, Microsoft Azure 
 - 🤔 I’m looking for help with Linux 
 - ⚡ Fun fact: Algorithm is a word used by Programmers when...they do not want to explain what they did.  
 <br>
@@ -15,6 +15,9 @@
 
 > Go check out my handles and follow em'
 <br>
+<a href="https://www.youtube.com/channel/UCStJJmtgJnLoTKBRi9cOQSg">
+<img  src="./img/youtube.svg" width="48" height="48" alt="youtube" />
+</a>
 <a href="https://utkarshgoel-10.netlify.app/">
 <img align="left" src="./img/web.png" width="48" height="48" alt="site" />
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href="mailto:goelutkarsh7u@gmail.com">
 <img align="left" src="./img/gmail.svg" width="48" height="48" alt="mail" />
-</a>
-<a href="https://www.youtube.com/channel/UCStJJmtgJnLoTKBRi9cOQSg">
-<img  src="./img/youtube.svg" width="50" height="50" alt="youtube" />
 </a>
 <br>
 <br>
