@@ -16,7 +16,7 @@
 > Go check out my handles and follow em'
 <br>
 <a href="https://www.youtube.com/channel/UCStJJmtgJnLoTKBRi9cOQSg">
-<img  src="./img/youtube.svg" width="48" height="48" alt="youtube" />
+<img align="left" src="./img/youtube.svg" width="48" height="48" alt="youtube" />
 </a>
 <a href="https://utkarshgoel-10.netlify.app/">
 <img align="left" src="./img/web.png" width="48" height="48" alt="site" />
@@ -29,9 +29,6 @@
 </a>
 <a href="https://www.instagram.com/utkarsh_goel.10/">
 <img align="left" src="./img/instagram.svg" width="48" height="48" alt="instagram" />
-</a>
-<a href="https://dev.to/utkarshgoel10">
-<img align="left" src="./img/dev.svg" width="48" height="48" alt="dev" />
 </a>
 <a href="https://stackoverflow.com/users/15812489">
 <img align="left" src="./img/stack-overflow.svg" width="48" height="48" alt="stack" />
