@@ -16,7 +16,7 @@
 > Go check out my handles and follow em'
 <br>
 <a href="https://utkarshgoel-10.netlify.app/">
-<img align="left" src="./img/web.svg" width="48" height="48" alt="site" />
+<img align="left" src="./img/web.png" width="48" height="48" alt="site" />
 </a>
 <a href="https://www.linkedin.com/in/goelutkarsh/">
 <img align="left" src="./img/linkedin.svg" width="48" height="48" alt="linkedin" />
@@ -37,7 +37,7 @@
 <img align="left" src="./img/gmail.svg" width="48" height="48" alt="mail" />
 </a>
 <a href="https://www.youtube.com/channel/UCStJJmtgJnLoTKBRi9cOQSg">
-<img  src="./img/youtube.svg" width="48" height="48" alt="youtube" />
+<img  src="./img/youtube.svg" width="50" height="50" alt="youtube" />
 </a>
 <br>
 <br>
