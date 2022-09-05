@@ -3,6 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=utkarshgoel10" alt="page views" />
 
 <img src="./img/Copy of Untitled.png" alt="banner" /><br>
+🎓 I'm a final year student currently pursuing my bachelor's of technology. I'm a tech enthusiast, and an avid learner. I'm also an instructor, helping developers become confident in their domains. Currently, I'm making programming tutorials on Youtube. I'm searching for new opportunities; if you believe I may be of assistance, feel free to contact me.
 
 - 🔭 <b>I’m currently working on<b> Freelance Projects 
 - 🌱 I’m currently learning Solidity, Microsoft Azure 
