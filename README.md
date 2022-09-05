@@ -1,11 +1,11 @@
 ### Hey there🙋‍♂️, I'm Utkarsh
-#### Full Stack Developer | Android Enthusiast
+#### Full Stack Developer | Web3 Enthusiast
 <img src="https://komarev.com/ghpvc/?username=utkarshgoel10" alt="page views" />
 
 <img src="./img/Copy of Untitled.png" alt="banner" /><br>
 
-- 🔭 <b>I’m currently working on<b> Open Source Projects 
-- 🌱 I’m currently learning React Js, Flutter 
+- 🔭 <b>I’m currently working on<b> Freelance Projects 
+- 🌱 I’m currently learning Solidity, Azure 
 - 🤔 I’m looking for help with Linux 
 - ⚡ Fun fact: Algorithm is a word used by Programmers when...they do not want to explain what they did.  
 <br>
@@ -15,7 +15,7 @@
 
 > Go check out my handles and follow em'
 <br>
-<a href="https://utkarshgoel10.netlify.app/">
+<a href="https://utkarshgoel-10.netlify.app/">
 <img align="left" src="./img/web.svg" width="48" height="48" alt="site" />
 </a>
 <a href="https://www.linkedin.com/in/goelutkarsh/">
@@ -36,8 +36,8 @@
 <a href="mailto:goelutkarsh7u@gmail.com">
 <img align="left" src="./img/gmail.svg" width="48" height="48" alt="mail" />
 </a>
-<a href="https://www.hackerrank.com/Utkarsh_goel_10">
-<img  src="./img/hackerrank (1).svg" width="48" height="48" alt="cp" />
+<a href="https://www.youtube.com/channel/UCStJJmtgJnLoTKBRi9cOQSg">
+<img  src="./img/youtube.svg" width="48" height="48" alt="youtube" />
 </a>
 <br>
 <br>
@@ -78,6 +78,12 @@
          </a>
          <br>Sass
       </td>
+<td align="center" width="96">
+         <a href="#macropower-tech">
+         <img src="./img/react.svg" width="48" height="48" alt="react" />
+         </a>
+         <br>React
+      </td>
    </tr>
    <tr>
       <td align="center" width="96">
@@ -109,6 +115,12 @@
          <img src="./img/mysql.svg" width="48" height="48" alt="Mysql" />
          </a>
          <br>MySQL
+      </td>
+<td align="center" width="96"> 
+         <a href="#macropower-tech" >
+         <img src="./img/solidity.svg" width="48" height="48" alt="Solidity" />
+         </a>
+         <br>Solidity
       </td>
    </tr>
 </table>
