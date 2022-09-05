@@ -14,7 +14,7 @@
 <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgoel10&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgoel10&layout=compact&theme=tokyonight) -->
-<img height="134px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgoel10&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgoel10&layout=compact&theme=tokyonight" />
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshgoel10&" alt="utkarshgoel10" /></p> -->
 <h2 align="left" id="macropower-tech">Connect with me</h2>
 
