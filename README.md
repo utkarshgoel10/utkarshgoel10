@@ -7,7 +7,7 @@
 - 🔭 <b>I’m currently working on<b> Freelance Projects 
 - 🌱 I’m currently learning Solidity, Microsoft Azure 
 - 🤔 I’m looking for help with Linux 
-- 📝 I'm making tutorials for [Xcoderse](https://www.youtube.com/channel/UCStJJmtgJnLoTKBRi9cOQSg)
+- 📝 I'm making tutorials on [Xcoderse](https://www.youtube.com/channel/UCStJJmtgJnLoTKBRi9cOQSg)
 - ⚡ Fun fact: Algorithm is a word used by Programmers when they do not want to explain what they did.  
 <br>
 <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=utkarshgoel10&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
@@ -47,7 +47,7 @@
 <br>
 <h2 align="left" id="macropower-tech">Technologies</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Development, Design, Hosting, Tools
 
 <!-- <table>
    <tr>
