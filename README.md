@@ -25,7 +25,7 @@
 <img align="left" src="https://img.icons8.com/color/48/null/youtube-play.png" width="48" height="48" alt="youtube" />
 </a>
 <a href="https://utkarshgoel-10.netlify.app/">
-<img align="left" src="https://img.icons8.com/glyph-neue/64/null/user.png" width="48" height="48" alt="site" />
+<img align="left" src="https://img.icons8.com/bubbles/50/null/user.png" width="48" height="48" alt="site" />
 </a>
 <a href="https://www.linkedin.com/in/goelutkarsh/">
 <img align="left" src="https://img.icons8.com/fluency/48/null/linkedin.png" width="48" height="48" alt="linkedin" />
