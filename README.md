@@ -25,22 +25,19 @@
 <img align="left" src="https://img.icons8.com/color/48/null/youtube-play.png" width="48" height="48" alt="youtube" />
 </a>
 <a href="https://utkarshgoel-10.netlify.app/">
-<img align="left" src="./img/web.png" width="48" height="48" alt="site" />
+<img align="left" src="https://img.icons8.com/glyph-neue/64/null/user.png" width="48" height="48" alt="site" />
 </a>
 <a href="https://www.linkedin.com/in/goelutkarsh/">
-<img align="left" src="./img/linkedin.svg" width="48" height="48" alt="linkedin" />
+<img align="left" src="https://img.icons8.com/fluency/48/null/linkedin.png" width="48" height="48" alt="linkedin" />
 </a>
 <a href="https://github.com/utkarshgoel10">
-<img align="left" src="./img/github.svg" width="48" height="48" alt="github" />
+<img align="left" src="https://img.icons8.com/3d-fluency/94/null/github.png" width="48" height="48" alt="github" />
 </a>
 <a href="https://www.instagram.com/utkarsh_goel.10/">
-<img align="left" src="./img/instagram.svg" width="48" height="48" alt="instagram" />
-</a>
-<a href="https://stackoverflow.com/users/15812489">
-<img align="left" src="./img/stack-overflow.svg" width="48" height="48" alt="stack" />
+<img align="left" src="https://img.icons8.com/fluency/48/null/instagram-new.png" width="48" height="48" alt="instagram" />
 </a>
 <a href="mailto:goelutkarsh7u@gmail.com">
-<img align="left" src="./img/gmail.svg" width="48" height="48" alt="mail" />
+<img align="left" src="https://img.icons8.com/color/48/null/gmail--v1.png" width="48" height="48" alt="mail" />
 </a>
 <br>
 <br>
