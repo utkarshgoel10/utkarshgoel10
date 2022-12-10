@@ -22,7 +22,7 @@
 > Go check out my handles and follow em'
 <br>
 <a href="https://www.youtube.com/channel/UCStJJmtgJnLoTKBRi9cOQSg">
-<img align="left" src="./img/youtube.svg" width="48" height="48" alt="youtube" />
+<img align="left" src="https://img.icons8.com/color/48/null/youtube-play.png" width="48" height="48" alt="youtube" />
 </a>
 <a href="https://utkarshgoel-10.netlify.app/">
 <img align="left" src="./img/web.png" width="48" height="48" alt="site" />
