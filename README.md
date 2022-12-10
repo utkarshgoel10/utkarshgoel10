@@ -2,7 +2,7 @@
 #### Full Stack Developer | Web3 Enthusiast
 <img src="https://komarev.com/ghpvc/?username=utkarshgoel10" alt="page views" />
 
-<img src="./img/Copy of Untitled.png" alt="banner" /><br>
+<!-- <img src="./img/Copy of Untitled.png" alt="banner" /><br> -->
 
 - 🔭 <b>I’m currently working on<b> Freelance Projects 
 - 🌱 I’m currently learning Solidity, Microsoft Azure 
