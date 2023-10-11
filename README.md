@@ -44,20 +44,33 @@
 <br>
 <h2 align="left" id="macropower-tech">Technologies</h2>
 
+> Frontend
 
-> Frontend<br>
-![Frontend](https://skillicons.dev/icons?i=js,react,redux,nextjs)<br>
-![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap)<br>
-> Backend<br>
+[![Frontend](https://skillicons.dev/icons?i=js,react,redux,nextjs)](https://skillicons.dev)
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap)](https://skillicons.dev)<br>
+
+> Backend
+
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,php,mysql)<br>
-> Problem Solving<br>
+
+> Problem Solving
+
 ![SDE](https://skillicons.dev/icons?i=c,cpp,java,python)<br>
-> Software Development, Tools<br>
+
+> Software Development, Tools
+
 ![SDE](https://skillicons.dev/icons?i=selenium,git,sentry,postman,linux,githubactions)<br>
-> Learning<br>
+
+> Learning
+
 ![Learn](https://skillicons.dev/icons?i=ts,aws,graphql)<br>
-> Graphics<br>
+
+> Graphics
+
 ![graphics](https://skillicons.dev/icons?i=ae,ps,pr,figma)<br>
-> Certified<br>
+
+> Certified
+
 ![certi](https://skillicons.dev/icons?i=azure)<br>
 
