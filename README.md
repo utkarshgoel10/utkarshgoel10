@@ -1,6 +1,7 @@
 ### Hey there👋, I'm Utkarsh
 #### Full Stack Developer | Aspiring Software Engineer
-<img src="https://komarev.com/ghpvc/?username=utkarshgoel10" alt="page views" />
+
+<!-- <img src="https://komarev.com/ghpvc/?username=utkarshgoel10" alt="page views" /> -->
 
 <!-- <img src="./img/Copy of Untitled.png" alt="banner" /><br> -->
 
